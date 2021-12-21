@@ -1,0 +1,49 @@
+{
+  "name": "tmdbvideo",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bootstrap": "^3.3.7",
+    "prop-types": "^15.6.1",
+    "react": "^16.3.2",
+    "react-autosuggest": "^10.1.0",
+    "react-bootstrap": "^0.32.1",
+    "react-dom": "^16.3.2",
+    "react-redux": "^5.1.2",
+    "react-router": "^3.2.6",
+    "react-router-dom": "^4.3.1",
+    "react-router-redux": "^4.0.8",
+    "react-scripts": "^4.0.3",
+    "react-slick": "^0.28.1",
+    "react-tooltip": "^4.2.21",
+    "redux": "^4.1.1",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-thunk": "^2.3.0",
+    "slick-carousel": "^1.8.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^12.1.0",
+    "@types/react-router": "^3.0.24",
+    "jest": "^26.6.0"
+  }
+}
